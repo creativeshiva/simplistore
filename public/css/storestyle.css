@@ -3,6 +3,11 @@ body {
   margin: 0;
 }
 
+header {
+  color: #fff;
+  background-color: #395144;
+}
+
 
 .simpli {
   color: #fff;
