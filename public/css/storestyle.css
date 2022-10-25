@@ -1,0 +1,29 @@
+body {
+  background-color: #F8FFDB;
+  margin: 0;
+}
+
+
+.simpli {
+  color: #fff;
+  background-color: #395144;
+  border-radius: 5%;
+  text-align: center;
+}
+
+.namdhari {
+  color: #FF6464;
+}
+
+.fresh {
+  color: #367E18;
+}
+
+.storename {
+  font-size: 1.25rem;
+}
+
+
+.mx-auto{
+  padding: 20px;
+}
