@@ -8,6 +8,13 @@ header {
   background-color: #395144;
 }
 
+.xpress {
+  text-decoration: underline;
+  font-family: cursive;
+  color: #379237;
+  font-size: 1.2rem;
+  font-weight: bolder;
+}
 
 .simpli {
   color: #fff;
