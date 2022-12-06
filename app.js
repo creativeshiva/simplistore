@@ -22,9 +22,6 @@ app.get("/storeLocation", function(req, res) {
 // below line is for Home POST ROUTE
 
 app.post("/", function(req, res){
-// var firstName1 = ;
-// var lastName1 = ;
-// var emailID = ;
 
 var data = {
     authorization: "8a19ca98-00ff-46c4-a666-c6756aa93606",
